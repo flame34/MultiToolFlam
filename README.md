@@ -1,4 +1,4 @@
-# MultiToolFlam
+# MultiToolSano
 A free safe Discord MultiTool!
 What feature have the tool?
  Server Joiner               Token VC Spammer          Token Name Changer
